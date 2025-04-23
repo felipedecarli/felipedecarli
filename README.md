@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @felipedecarli
-- 👀 I’m interested in Data Analysis, Payments Risk and Crypto
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on learning projects
+
 
 
 <!---
